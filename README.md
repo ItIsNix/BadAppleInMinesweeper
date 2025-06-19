@@ -19,3 +19,5 @@ Example of the included file:
 ```bash
 py ProcessVideo.py "badapple.mp4" 50 38
 ```
+
+Made completely with python's pygame
